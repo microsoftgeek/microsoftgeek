@@ -32,7 +32,13 @@ For future use
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/username=microsoftgeek&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
+* My IT blog - check it out! <a href="https://microsoftgeek.com/">microsoftgeek</a>
+* <a href="https://www.credly.com/users/cesar-duran.822df967/badges">My Credly.com IT Certifications</a>
+* <a href="https://www.credential.net/profile/cesarduran/wallet">My Credential.net IT Certifications</a>
+
+<img src="https://github-readme-stats.vercel.app/api/?username=microsoftgeek&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
 
 ![Cesars' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftgeek&layout=compact&theme=radical)
 
