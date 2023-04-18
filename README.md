@@ -14,6 +14,7 @@
 
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/powershell-3670A0?style=for-the-badge&logo=powershell&logoColor=ffdd54) ![O365](https://img.shields.io/badge/O365-%23276DC3.svg?style=for-the-badge&logo=o365&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![VMWare](https://img.shields.io/badge/vmware-%2344A833.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Linux](https://img.shields.io/badge/redhat-%23D00000.svg?style=for-the-badge&logo=redhat&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23F7931E.svg?style=for-the-badge&logo=aws&logoColor=white) ![DevOps](https://img.shields.io/badge/devops-%23FF6F00.svg?style=for-the-badge&logo=devops&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
