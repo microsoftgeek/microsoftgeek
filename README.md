@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Cesar Duran Solano
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=microsoftgeek.visitor-badge)
-
 ![](https://komarev.com/ghpvc/?username=microsoftgeek)
 
 
