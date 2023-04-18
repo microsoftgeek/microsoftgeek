@@ -15,10 +15,20 @@
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/powershell-3670A0?style=for-the-badge&logo=powershell&logoColor=ffdd54) ![O365](https://img.shields.io/badge/O365-%23276DC3.svg?style=for-the-badge&logo=o365&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![VMWare](https://img.shields.io/badge/vmware-%2344A833.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Linux](https://img.shields.io/badge/redhat-%23D00000.svg?style=for-the-badge&logo=redhat&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23F7931E.svg?style=for-the-badge&logo=aws&logoColor=white) ![DevOps](https://img.shields.io/badge/devops-%23FF6F00.svg?style=for-the-badge&logo=devops&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/microsoftgeek/microsoftgeek/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/microsoftgeek/microsoftgeek/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/microsoftgeek/microsoftgeek/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/microsoftgeek/microsoftgeek/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/microsoftgeek/microsoftgeek/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=microsoftgeek&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+---
