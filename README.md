@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Sr. Azure Cloud Infrastructure Engineer at @Shutterfly<br>📚 I write about Azure Cloud, O365, System Administration, and other stuff (check my articles here->[https://microsoftgeek.com/](https://microsoftgeek.com/))<br>👩🏻‍💻 PowerShell Lover<br>🌱 Always learning about new Azure Cloud trends and how it will impact businesses<br>💬 Ask me about Azure Cloud, PowerShell Scripting, O365, and System Engineering, all spiced with PowerShell<br><br> In my spare time, you can find me either gardening 🧑🏽‍🌾 or traveling ✈️ somewhere around the world 🌏
+🔭 Sr. Azure Cloud Infrastructure Engineer at @Shutterfly<br>📚 I write about Azure Cloud, O365, System Administration, and other stuff (check my articles here->[https://microsoftgeek.com/](https://microsoftgeek.com/))<br>👩🏻‍💻 PowerShell Lover<br>🌱 Always learning about new Azure Cloud trends and how it will impact businesses<br>💬 Ask me about Azure, AWS, O365, Exchange, VMware, and Windows/Linux System Administration, all spiced with PowerShell<br><br> In my spare time, you can find me either gardening 🧑🏽‍🌾 or traveling ✈️ somewhere around the world 🌏
 
 
 ## 🌐 Socials:
