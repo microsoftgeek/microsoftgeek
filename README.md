@@ -31,3 +31,9 @@ For future use
 -->
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/username=microsoftgeek&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
+![Cesars' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftgeek&layout=compact&theme=radical)
+
+[![Cesars' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=microsoftgeek&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
